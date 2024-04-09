@@ -2217,319 +2217,8 @@ MonoBehaviour:
   m_lastVariants: []
   m_root:
     variants:
-    - id: 1771d527
-      name: Flying to the island
-      image:
-        url: 
-      label: A1
-      prompt:
-        text: 
-        style: bottom_buttons
-        timer:
-          show: 1
-          invert_colors: 0
-          transparent_background: 0
-        hidden: 0
-        hotspot: 0
-        substyle: 
-        display_at: 10
-        text_color: '#FFF'
-        background_color: rgba(0,0,0,0.9)
-      choices:
-      - id: d781205c
-        label: 
-        hidden: 0
-        default: 1
-        location: 
-        cut_on_click: 1
-        linkedVariants:
-        - id: e107561b
-          label: Into the City
-          default: 1
-          external_url: 
-          external_url_target: 
-          if_viewed_most_recently: 
-      - id: ab1cddcc
-        label: 
-        hidden: 0
-        default: 0
-        location: 
-        cut_on_click: 1
-        linkedVariants:
-        - id: 359856a0
-          label: Up into the Mountains
-          default: 1
-          external_url: 
-          external_url_target: 
-          if_viewed_most_recently: 
-      summary: 
-      island_id: 7d6a5ac0
-      media_url: https://videos-cdn.stornaway.io/IN-CLASS-DEMO_aa274f3d/MEDIA/HLS/IN-CLASS-DEMO_185bd583_BEAUTIFUL-PANORAMIC-VIEW-OF-NORWEGIAN-FISHER-VILLAGE-ON-WATER-HD.m3u8
-      island_name: 
-      end_behavior: progress
-      text_overlay: []
-      media_projection: 
-      media_alternative_sources:
-      - url: https://videos-cdn.stornaway.io/IN-CLASS-DEMO_aa274f3d/MEDIA/MP4/IN-CLASS-DEMO_185bd583_BEAUTIFUL-PANORAMIC-VIEW-OF-NORWEGIAN-FISHER-VILLAGE-ON-WATER-HD.mp4
-        mime: mp4
-      mediaName: BEAUTIFUL-PANORAMIC-VIEW-OF-NORWEGIAN-FISHER-VILLAGE-ON-WATER-HD.mp4
-    - id: 349e5308
-      name: Enjoy the Night Sky
-      image:
-        url: 
-      label: F1
-      prompt:
-        text: 
-        style: bottom_buttons
-        timer:
-          show: 1
-          invert_colors: 0
-          transparent_background: 0
-        hidden: 0
-        hotspot: 0
-        substyle: 
-        display_at: 10
-        text_color: '#FFF'
-        background_color: rgba(0,0,0,0.9)
-      choices:
-      - id: 9ef9fcd8
-        label: 
-        hidden: 0
-        default: 1
-        location: 
-        cut_on_click: 1
-        linkedVariants: []
-      - id: 0bdda830
-        label: 
-        hidden: 0
-        default: 0
-        location: 
-        cut_on_click: 1
-        linkedVariants: []
-      summary: 
-      island_id: 289f5cba
-      media_url: https://videos-cdn.stornaway.io/IN-CLASS-DEMO_aa274f3d/MEDIA/HLS/IN-CLASS-DEMO_420293cd_NIGHT-SKY-IN-THE-MOUNTAINS-TIME-LAPSE-HD.m3u8
-      island_name: 
-      end_behavior: progress
-      text_overlay: []
-      media_projection: 
-      media_alternative_sources:
-      - url: https://videos-cdn.stornaway.io/IN-CLASS-DEMO_aa274f3d/MEDIA/MP4/IN-CLASS-DEMO_420293cd_NIGHT-SKY-IN-THE-MOUNTAINS-TIME-LAPSE-HD.mp4
-        mime: mp4
-      mediaName: NIGHT-SKY-IN-THE-MOUNTAINS-TIME-LAPSE-HD.mp4
-    - id: 359856a0
-      name: Up into the Mountains
-      image:
-        url: 
-      label: C1
-      prompt:
-        text: 
-        style: bottom_buttons
-        timer:
-          show: 1
-          invert_colors: 0
-          transparent_background: 0
-        hidden: 0
-        hotspot: 0
-        substyle: 
-        display_at: 10
-        text_color: '#FFF'
-        background_color: rgba(0,0,0,0.9)
-      choices:
-      - id: 40dae7ae
-        label: 
-        hidden: 0
-        default: 1
-        location: 
-        cut_on_click: 1
-        linkedVariants:
-        - id: cdf8b299
-          label: Fall in Love
-          default: 1
-          external_url: 
-          external_url_target: 
-          if_viewed_most_recently: 
-      - id: 8839c7b1
-        label: 
-        hidden: 0
-        default: 0
-        location: 
-        cut_on_click: 1
-        linkedVariants:
-        - id: e107561b
-          label: Into the City
-          default: 1
-          external_url: 
-          external_url_target: 
-          if_viewed_most_recently: 
-      summary: 
-      island_id: e4e3232f
-      media_url: https://videos-cdn.stornaway.io/IN-CLASS-DEMO_aa274f3d/MEDIA/HLS/IN-CLASS-DEMO_a1033402_SILHOUETTE-OF-HIKER-MAN-STANDING-ON-MOUNTAIN-TOP-AT-SUNSET-BOY-LOOKING-AT-DEEP-OCEAN.m3u8
-      island_name: 
-      end_behavior: progress
-      text_overlay: []
-      media_projection: 
-      media_alternative_sources:
-      - url: https://videos-cdn.stornaway.io/IN-CLASS-DEMO_aa274f3d/MEDIA/MP4/IN-CLASS-DEMO_a1033402_SILHOUETTE-OF-HIKER-MAN-STANDING-ON-MOUNTAIN-TOP-AT-SUNSET-BOY-LOOKING-AT-DEEP-OCEAN.mp4
-        mime: mp4
-      mediaName: SILHOUETTE-OF-HIKER-MAN-STANDING-ON-MOUNTAIN-TOP-AT-SUNSET-BOY-LOOKING-AT-DEEP-OCEAN.mp4
-    - id: 73ed8031
-      name: Lost in the City
-      image:
-        url: 
-      label: D1
-      prompt:
-        text: 
-        style: bottom_buttons
-        timer:
-          show: 1
-          invert_colors: 0
-          transparent_background: 0
-        hidden: 0
-        hotspot: 0
-        substyle: 
-        display_at: 10
-        text_color: '#FFF'
-        background_color: rgba(0,0,0,0.9)
-      choices:
-      - id: 81d29c59
-        label: 'Go up into the mountains '
-        hidden: 0
-        default: 1
-        location: 
-        cut_on_click: 1
-        linkedVariants:
-        - id: 359856a0
-          label: Up into the Mountains
-          default: 1
-          external_url: 
-          external_url_target: 
-          if_viewed_most_recently: 
-      - id: 1408bdf7
-        label: Die
-        hidden: 0
-        default: 0
-        location: 
-        cut_on_click: 1
-        linkedVariants:
-        - id: c53595e0
-          label: You Die
-          default: 1
-          external_url: 
-          external_url_target: 
-          if_viewed_most_recently: 
-      summary: 
-      island_id: 5c0f849f
-      media_url: https://videos-cdn.stornaway.io/IN-CLASS-DEMO_aa274f3d/MEDIA/HLS/IN-CLASS-DEMO_31ce13e9_MAN-LOOKS-LOST-IN-THE-CITY-HD.m3u8
-      island_name: 
-      end_behavior: progress
-      text_overlay: []
-      media_projection: 
-      media_alternative_sources:
-      - url: https://videos-cdn.stornaway.io/IN-CLASS-DEMO_aa274f3d/MEDIA/MP4/IN-CLASS-DEMO_31ce13e9_MAN-LOOKS-LOST-IN-THE-CITY-HD.mp4
-        mime: mp4
-      mediaName: MAN-LOOKS-LOST-IN-THE-CITY-HD.mp4
-    - id: c53595e0
-      name: You Die
-      image:
-        url: 
-      label: E1
-      prompt:
-        text: 
-        style: bottom_buttons
-        timer:
-          show: 1
-          invert_colors: 0
-          transparent_background: 0
-        hidden: 0
-        hotspot: 0
-        substyle: 
-        display_at: 10
-        text_color: '#FFF'
-        background_color: rgba(0,0,0,0.9)
-      choices:
-      - id: 219433e6
-        label: 
-        hidden: 1
-        default: 1
-        location: 
-        cut_on_click: 0
-        linkedVariants:
-        - id: 349e5308
-          label: Enjoy the Night Sky
-          default: 1
-          external_url: 
-          external_url_target: 
-          if_viewed_most_recently: 
-      summary: 
-      island_id: 7d83944d
-      media_url: https://videos-cdn.stornaway.io/IN-CLASS-DEMO_aa274f3d/MEDIA/HLS/IN-CLASS-DEMO_bf1f09aa_SLOW-MOTION-OF-WHITE-ROSES-ON-GRAVESTONE-SBV-322394800-HD.m3u8
-      island_name: 
-      end_behavior: progress
-      text_overlay: []
-      media_projection: 
-      media_alternative_sources:
-      - url: https://videos-cdn.stornaway.io/IN-CLASS-DEMO_aa274f3d/MEDIA/MP4/IN-CLASS-DEMO_bf1f09aa_SLOW-MOTION-OF-WHITE-ROSES-ON-GRAVESTONE-SBV-322394800-HD.mp4
-        mime: mp4
-      mediaName: SLOW-MOTION-OF-WHITE-ROSES-ON-GRAVESTONE-SBV-322394800-HD.mp4
-    - id: cdf8b299
-      name: Fall in Love
-      image:
-        url: 
-      label: G1
-      prompt:
-        text: 
-        style: bottom_buttons
-        timer:
-          show: 1
-          invert_colors: 0
-          transparent_background: 0
-        hidden: 0
-        hotspot: 0
-        substyle: 
-        display_at: 10
-        text_color: '#FFF'
-        background_color: rgba(0,0,0,0.9)
-      choices:
-      - id: 9f0e7573
-        label: 
-        hidden: 0
-        default: 1
-        location: 
-        cut_on_click: 1
-        linkedVariants:
-        - id: 349e5308
-          label: Enjoy the Night Sky
-          default: 1
-          external_url: 
-          external_url_target: 
-          if_viewed_most_recently: 
-      - id: bf6e394c
-        label: 
-        hidden: 0
-        default: 0
-        location: 
-        cut_on_click: 1
-        linkedVariants:
-        - id: e107561b
-          label: Into the City
-          default: 1
-          external_url: 
-          external_url_target: 
-          if_viewed_most_recently: 
-      summary: 
-      island_id: 40cf5134
-      media_url: https://videos-cdn.stornaway.io/IN-CLASS-DEMO_aa274f3d/MEDIA/HLS/IN-CLASS-DEMO_a6ee56c3_THE-HAPPY-COUPLE-HOLD-BENGAL-LIGHTS-ON-A-BACKGROUND-OF-A-NIGHT-CITY-SLOW-MOTION-HD.m3u8
-      island_name: 
-      end_behavior: progress
-      text_overlay: []
-      media_projection: 
-      media_alternative_sources:
-      - url: https://videos-cdn.stornaway.io/IN-CLASS-DEMO_aa274f3d/MEDIA/MP4/IN-CLASS-DEMO_a6ee56c3_THE-HAPPY-COUPLE-HOLD-BENGAL-LIGHTS-ON-A-BACKGROUND-OF-A-NIGHT-CITY-SLOW-MOTION-HD.mp4
-        mime: mp4
-      mediaName: THE-HAPPY-COUPLE-HOLD-BENGAL-LIGHTS-ON-A-BACKGROUND-OF-A-NIGHT-CITY-SLOW-MOTION-HD.mp4
-    - id: e107561b
-      name: Into the City
+    - id: 4c2483b9
+      name: Test A
       image:
         url: 
       label: B1
@@ -2547,44 +2236,134 @@ MonoBehaviour:
         text_color: '#FFF'
         background_color: rgba(0,0,0,0.9)
       choices:
-      - id: c55220df
+      - id: 46007907
+        label: 
+        hidden: 0
+        default: 1
+        location: 
+        cut_on_click: 1
+        linkedVariants: []
+      - id: 1a7be6df
+        label: 
+        hidden: 0
+        default: 0
+        location: 
+        cut_on_click: 1
+        linkedVariants: []
+      summary: 
+      island_id: bde246b6
+      media_url: https://videos-cdn.stornaway.io/PLACEHOLDER/HLS/Stornaway_Placeholder_Video.m3u8
+      island_name: 
+      end_behavior: progress
+      text_overlay:
+      - 
+      - 
+      - 
+      media_projection: 
+      media_alternative_sources: []
+      mediaName: 
+    - id: af510fc9
+      name: Test
+      image:
+        url: 
+      label: A1
+      prompt:
+        text: 
+        style: bottom_buttons
+        timer:
+          show: 1
+          invert_colors: 0
+          transparent_background: 0
+        hidden: 0
+        hotspot: 0
+        substyle: 
+        display_at: 10
+        text_color: '#FFF'
+        background_color: rgba(0,0,0,0.9)
+      choices:
+      - id: d5385ad9
         label: 
         hidden: 0
         default: 1
         location: 
         cut_on_click: 1
         linkedVariants:
-        - id: 73ed8031
-          label: Lost in the City
+        - id: 4c2483b9
+          label: Test A
           default: 1
           external_url: 
           external_url_target: 
           if_viewed_most_recently: 
-      - id: fedfb3f2
+      - id: 36fd4302
         label: 
         hidden: 0
         default: 0
         location: 
         cut_on_click: 1
         linkedVariants:
-        - id: 359856a0
-          label: Up into the Mountains
+        - id: eeb1feaf
+          label: Test B
           default: 1
           external_url: 
           external_url_target: 
           if_viewed_most_recently: 
       summary: 
-      island_id: be60a6b5
-      media_url: https://videos-cdn.stornaway.io/IN-CLASS-DEMO_aa274f3d/MEDIA/HLS/IN-CLASS-DEMO_1543fd4a_PEOPLE-WALKING-IN-NYC-HD.m3u8
+      island_id: f6ffd398
+      media_url: https://videos-cdn.stornaway.io/UNITY-INTEGRATION-TEST_91504353/MEDIA/HLS/UNITY-INTEGRATION-TEST_ccc445c6_TEMP_VIDEO_1712084773498.m3u8
       island_name: 
       end_behavior: progress
       text_overlay: []
-      media_projection: 
+      media_projection: 360
       media_alternative_sources:
-      - url: https://videos-cdn.stornaway.io/IN-CLASS-DEMO_aa274f3d/MEDIA/MP4/IN-CLASS-DEMO_1543fd4a_PEOPLE-WALKING-IN-NYC-HD.mp4
+      - url: https://videos-cdn.stornaway.io/UNITY-INTEGRATION-TEST_91504353/MEDIA/MP4/UNITY-INTEGRATION-TEST_ccc445c6_TEMP_VIDEO_1712084773498.mp4
         mime: mp4
-      mediaName: PEOPLE-WALKING-IN-NYC-HD.mp4
-    start_variant: 1771d527
+      mediaName: TEMP_VIDEO_1712084773498.mp4
+    - id: eeb1feaf
+      name: Test B
+      image:
+        url: 
+      label: C1
+      prompt:
+        text: 
+        style: bottom_buttons
+        timer:
+          show: 1
+          invert_colors: 0
+          transparent_background: 0
+        hidden: 0
+        hotspot: 0
+        substyle: 
+        display_at: 10
+        text_color: '#FFF'
+        background_color: rgba(0,0,0,0.9)
+      choices:
+      - id: a8882073
+        label: 
+        hidden: 0
+        default: 1
+        location: 
+        cut_on_click: 1
+        linkedVariants: []
+      - id: 5bc702a8
+        label: 
+        hidden: 0
+        default: 0
+        location: 
+        cut_on_click: 1
+        linkedVariants: []
+      summary: 
+      island_id: f99ca1a6
+      media_url: https://videos-cdn.stornaway.io/PLACEHOLDER/HLS/Stornaway_Placeholder_Video.m3u8
+      island_name: 
+      end_behavior: progress
+      text_overlay:
+      - 
+      - 
+      - 
+      media_projection: 
+      media_alternative_sources: []
+      mediaName: 
+    start_variant: af510fc9
     use_device_orientation: 0
   m_playbackMethod: 0
   m_promptManager: {fileID: 290406579}
